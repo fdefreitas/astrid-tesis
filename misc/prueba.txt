@@ -1,0 +1,5 @@
+7 6
+izq0.JPG
+der0.JPG
+izq1.JPG
+der1.JPG
